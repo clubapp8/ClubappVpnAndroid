@@ -1,3 +1,7 @@
+‼️‼️ دیگه اپدیستی برای این پروژه نمیاد میتونید از 8vpn استفاده کنید 
+https://github.com/clubapp8/8vpn
+
+
 # Clubapp - Free & Open-Source Android VPN
 <img width="2560" height="1440" alt="888" src="https://github.com/user-attachments/assets/dba3521c-fd91-4ff7-b846-4c602917ff79" />
 
